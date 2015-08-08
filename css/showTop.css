@@ -1,0 +1,11 @@
+.goTop,.i18n-ru #content h2,.i18n-ru #teaser h1 > span,.i18n-ru{font-family:"helvetica55_ru",helvetica,serif;}.i18n-ru h1,.i18n-ru h2,.i18n-ru h3,.i18n-ru h4{font-family:"helvetica45_ru",helvetica,serif;font-weight:normal;}.i18n-ru .subterm #content h2,#edit-lang-dropdown-select_msa_6 > span,.i18n-ru a{font-family:"helvetica45_ru",helvetica,serif;}.i18n-ru #teaser a,.i18n-ru strong,.i18n-ru b,.i18n-ru table tr:first-child td,.i18n-ru .help_box.categories .styled_button input[type="submit"]{font-family:"helvetica65_ru",helvetica,serif;}.i18n-ko 
+.goTop,.i18n-ko #content h2,.i18n-ko #teaser h1 > span,.i18n-ko{font-family:"Nanum Gothic",sans-serif;}
+.GoTop{display:none;position:fixed;top:75%;margin-left:-30px;width:50px;padding:5px 8px;font-size:16px;height:40px;z-index:5;background:#fff;border:2px solid #dadada;border-width:0 2px 2px 0;outline:0;-webkit-border-radius:0 10px 10px 0;-moz-border-radius:0 10px 10px 0;border-radius:0 10px 10px 0;behavior:url(http://www.wix.com/support/main/flash/sites/all/themes/wixlc/resources/PIE.htc);}
+.GoTop:hover{background:#111;color:#fff;}
+.GoTop:after{bottom:-9px;}
+.GoTop:before{content:"";}
+.ie8 .GoTop{border:none;behavior:url(http://www.wix.com/dont/find/PIE.htc);}
+.ie8 .GoTop:before{content:"";}
+.ie8 .GoTop:after{bottom:-5px;}#branding{height:260px; top:0px; position:relative;z-index:6569;behavior:url(http://www.wix.com/support/main/flash/sites/all/themes/wixlc/resources/PIE.htc);}
+.ie8 .GoTop{background:transparent url(button_gotop.png) left 1px no-repeat;height:45px;width:66px;}
+.ie8 .GoTop:hover{background:transparent url(button_gotop_active.png) left 1px no-repeat;}
